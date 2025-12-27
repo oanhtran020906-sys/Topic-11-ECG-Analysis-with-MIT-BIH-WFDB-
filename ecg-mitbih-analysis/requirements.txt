@@ -1,1 +1,9 @@
+wfdb
+numpy
+pandas
+scipy
+matplotlib
+statsmodels
+scikit-learn
+jupyter
 
