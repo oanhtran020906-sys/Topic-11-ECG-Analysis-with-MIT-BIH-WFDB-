@@ -1,0 +1,8 @@
+.DS_Store
+Topic/*/data/
+Topic/*/textbook/
+textbook/
+*.pdf
+!slides/*.pdf
+Opendatabay_recovery_codes.txt
+backup-context.md
