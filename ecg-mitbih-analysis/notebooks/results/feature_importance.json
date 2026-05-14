@@ -1,0 +1,46 @@
+[
+  {
+    "feature": "HR_t-1",
+    "importance": 7.281744956970215
+  },
+  {
+    "feature": "HR_t-2",
+    "importance": 1.6691901683807373
+  },
+  {
+    "feature": "HR_t-3",
+    "importance": 1.2827281951904297
+  },
+  {
+    "feature": "max_hr",
+    "importance": 0.48011454939842224
+  },
+  {
+    "feature": "HR_t-4",
+    "importance": 0.451144814491272
+  },
+  {
+    "feature": "mean_hr",
+    "importance": 0.3974176049232483
+  },
+  {
+    "feature": "HR_t-5",
+    "importance": 0.14535856246948242
+  },
+  {
+    "feature": "min_hr",
+    "importance": 0.14533266425132751
+  },
+  {
+    "feature": "slope",
+    "importance": 0.0953601598739624
+  },
+  {
+    "feature": "rmssd",
+    "importance": 0.06149043142795563
+  },
+  {
+    "feature": "std_hr",
+    "importance": 0.060281846672296524
+  }
+]

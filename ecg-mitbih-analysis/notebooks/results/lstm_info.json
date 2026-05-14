@@ -1,0 +1,9 @@
+{
+  "input_shape": [
+    10,
+    11
+  ],
+  "train_samples": 14956,
+  "val_samples": 3198,
+  "test_samples": 3204
+}
